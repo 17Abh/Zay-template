@@ -1,0 +1,358 @@
+body{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    margin:0px;
+}
+.left-nav{
+    display: inline;
+    width:40%;
+    height:30px;
+    margin:auto ;
+    margin-left: 60px;
+   padding-top: 15px;
+    float:left;
+}
+.right-nav{
+    float:right;
+    display:inline;
+    width:40%;
+    height:30px;
+    padding-top: 15px;
+    
+    margin-right:60px;
+    text-align: right;
+}
+#first{
+    
+    
+    
+    height:50px;
+    width:100%;
+    background: rgb(15, 12, 27);
+    margin: 0px;
+    padding:0px;
+}
+#first a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size:small;
+    color:darkgrey;
+    margin:0px auto;
+    padding:10px 10px 10px 10px;
+    
+   height:40px;
+}
+#first a:hover{
+    color:white;
+}
+#second{
+    
+    height: 100px;
+    width:100%;
+    
+    background:white;
+    text-decoration: none;
+}
+#second .heading{
+    dispay:inline;
+    float:left;
+    width:15%;
+    height:60px;
+    margin-top: 10px;
+}
+#second .heading a{
+    display:inline;
+    width:15%;
+    height:60px;
+    color:darkgreen;
+    font-size: 50px;
+    text-decoration: none;
+    padding:50px 10px 5px 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+#second .second-center {
+    display:inline-block;
+    margin-top:35px ;
+    width:65%;
+    height:50px;
+    text-align: center;
+}
+#second .second-right{
+    float: right;
+    display:inline-block;
+    width:20%;
+    margin-top: 35px;
+}
+#second .second-center a{
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 18px;
+    color:rgb(8, 8, 8);
+    padding:20px 50px;
+    
+}
+#second .second-center a:hover{
+    color:darkgreen;
+}
+#second .second-right a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 300;
+    color:rgb(14, 13, 13);
+    padding:5px;
+}
+#second .second-right a:hover{
+    color:darkgreen;
+}
+#img1 img{
+    width:100%;
+    height:700px;
+    
+    
+    
+}
+#third{
+    width:100%;
+    height:150px;
+
+    
+    margin:auto;
+    text-align: center;
+    color:rgb(124, 121, 121);
+}
+h1{
+    font-weight: 100;
+}
+
+#fourth{
+    width:100%;
+    
+    
+}
+.ib1{
+    display:inline-block;
+    
+    width:25%;
+    height:500px;
+    background:url(/training/templet/Live\ View\ -\ templatemo\ 559\ zay\ shop\ -\ Google\ Chrome\ 05-03-2021\ 12_02_14\ \(2\).png) no-repeat top center;
+    
+}
+.ib2{
+    display:inline-block;
+    
+    width:25%;
+    height:500px;
+    background:url(/training/templet/Live\ View\ -\ templatemo\ 559\ zay\ shop\ -\ Google\ Chrome\ 05-03-2021\ 12_02_14\ \(3\).png) no-repeat top center;
+}
+.ib3{
+    display:inline-block;
+    
+    width:25%;
+    height:500px;
+    background:url(/training/templet/Live\ View\ -\ templatemo\ 559\ zay\ shop\ -\ Google\ Chrome\ 05-03-2021\ 12_02_14\ \(4\).png) no-repeat top center;
+}
+#fourth a{
+    
+    text-decoration: none;
+  display: inline-block;
+    background-color: darkgreen;
+    color: white;
+    margin-top: 400px;
+    margin-left: 40%;
+    padding:10px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+#fourth div{
+    margin:5px 30px;
+}
+#fourth .ib1{
+    margin-left: 120px;
+}
+#fourth a:hover{
+    background:rgb(15, 12, 27);
+}
+#fifth{
+    width:100%;
+    
+    min-height: 750px;
+    
+    
+    background:rgb(195, 219, 219)
+}
+#fifth .text1{
+    margin:auto;
+    text-align: center;
+}
+#fifth .text1 h1{
+     font-weight: 100;
+}
+  .block1{
+    display:inline-block;
+
+
+    
+    
+    width:25%;
+    height:450px;
+    background:rgb(255, 255, 255);
+    padding:10px;
+    border-radius: 5px;
+    background: url(/training/templet/feature_prod_01.jpg) no-repeat top center,white;
+    background-size: 500px 250px;
+}
+ .block2{
+    display:inline-block;
+
+    
+
+    
+    width:25%;
+    height:450px;
+    background:rgb(255, 255, 255);
+    padding:10px;
+    border-radius: 5px;
+    background: url(/training/templet/feature_prod_03.jpg) no-repeat top center,white;
+    background-size: 500px 250px;
+}
+  .block3{
+    display:inline-block;
+    
+    
+    
+    
+    width:25%;
+    height:450px;
+    background:rgb(255, 255, 255);
+    padding:10px;
+    border-radius: 5px;
+    background:url(/training/templet/feature_prod_02.jpg) no-repeat top center,white;
+    background-size: 500px 250px;
+}
+#fifth .text2{    
+    margin-top: 250px;
+    color:rgb(94, 90, 90);
+}
+#fifth .text2 h3{
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: 100;
+    margin: 10px 5px 0px 2px;
+    padding-bottom: 0px;
+    height: 30px;
+    color:rgb(36, 35, 35)
+}
+#fifth .text2 h2{
+    font-weight: 100;
+
+}
+#fifth .text2 p{
+    
+    margin-bottom: 28px;
+}
+#fifth div{
+    margin:20px 25px;
+}
+#fifth #container{
+    margin:0px 100px;
+    margin-right: 50px;
+}
+#sixth{
+    width:100%;
+    background:rgb(15, 12, 27);
+    
+    color:darkgrey;
+}
+.b1{
+    display:inline-block;
+    
+    
+    
+     width:27%;
+    height:300px;
+    padding:10px;   
+}
+.b2{
+    display:inline-block;
+    width:27%;
+    height:300px;
+    padding:10px;   
+}
+.b3{
+    display:inline-block;
+     width:27%;
+    height:300px;
+    padding:10px;
+     
+}
+#sixth div{
+    margin:10px 15px;
+}
+#sixth .b1{
+    
+    margin-left: 60px;
+}
+#sixth a{
+    text-decoration: none;
+    display: block;
+    color:darkgrey;
+    font-size: 20px;
+    padding:5px;
+}
+#sixth a:hover{
+    color:darkgreen
+}
+#sixth .green{
+    color:darkgreen;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+#sixth h3{
+    margin-top:5px;
+}
+#sixth .left-last{
+    display:inline;
+    margin-left: 60px;
+   
+    
+}
+#sixth .left-last a{
+    display:inline;
+    padding:5px;
+    
+    
+}
+#sixth .right-last{
+    display:inline;
+    float:right;
+    margin-top: 0%;
+    margin-right: 100px;
+}
+#sixth .line{ 
+    width:90%;
+    margin-left:4% ;
+}
+#seventh{
+    width:100%;
+    height:50px;
+    background:black;
+    color:darkgrey;
+    
+}
+#seventh a{
+    text-decoration:none;
+    color:rgb(73, 64, 64);
+    font-weight:300;
+    
+}
+#seventh .copy{
+    padding-top: 10px;
+    margin-left: 60px;
+    
+    
+}
+#seventh a:hover{
+    color:darkgreen;
+}
